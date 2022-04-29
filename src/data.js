@@ -32,16 +32,19 @@ export const categories = [
         id : 1,
         img : "https://images.samsung.com/sa_en/smartphones/galaxy-s22-ultra/buy/S22_Ultra_Carousel_GroupKV_MO.jpg",
         title : "Apple iPhone 13 Pro Max",
+        cat : "apple",
     },
     {
         id : 2,
         img : "https://images.samsung.com/sa_en/smartphones/galaxy-s22-ultra/buy/S22_Ultra_Carousel_GroupKV_MO.jpg",
         title : "Samsung Galaxy S22 Ultra",
+        cat : "samsung",
     },
     {
         id : 3,
         img : "https://images.samsung.com/sa_en/smartphones/galaxy-s22-ultra/buy/S22_Ultra_Carousel_GroupKV_MO.jpg",
-        title : "Google Pixel 6 Pro"
+        title : "Google Pixel 6 Pro",
+        cat : "Google"
     }
 ];
 
